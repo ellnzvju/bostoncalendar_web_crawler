@@ -20,4 +20,5 @@ The crawler will save new files every month. (Location Events/)
 1. Combine all event files in /Events
 2. Translate from, to datetime into actual datetime (For pandas)
 3. Remove duplicated events
-4. Convert category from string (with , separators) into categorize features (58 features with 0, 1 value)
+4. Calculate duration of events
+5. Convert category from string (with , separators) into categorize features (58 features with 0, 1 value)
